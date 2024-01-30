@@ -75,6 +75,7 @@
         android:layout_height="43dp"
         android:backgroundTint="#E31212"
         android:text="LOGIN"
+        android:textStyle="bold"
         app:iconTint="#332929"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
